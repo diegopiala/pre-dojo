@@ -1,2 +1,3 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Classe ValidaPartida.java, valida se jogadores com mesmo
+número de assassinatos serão desempatados pela comparação 
+de menor número de mortes e verifica as armas preferidas; 
